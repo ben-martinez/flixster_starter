@@ -40,7 +40,7 @@ Deployed Application: [Flixster Deployed Site](https://ben-martinez.github.io/fl
 
 ### Walkthrough Video
 
-`![Demo walkthrough of project](demo.gif)`
+![Demo walkthrough of project](demo.gif)
 
 ### Reflection
 
