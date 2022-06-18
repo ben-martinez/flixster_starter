@@ -41,7 +41,7 @@ function processPopup(title,releaseDate, posterPath, desc, votes){
         <div class = 'popup-content'>
             <span onclick = "closePopup()" class="close">&times;</span>
             <div class = "popup-content-grid">
-            <img src = ${posterPath} class = "popup-poster">
+            <img src = ${posterPath} alt = ${title} class = "popup-poster">
                 
             <div class = "movie-info"> 
                 <div class = "title-info">
